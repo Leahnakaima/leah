@@ -1,0 +1,176 @@
+    1  df -h
+    2  pwd
+    3  touch /media/ubuntu/casper-rw/
+    4  touch /media/ubuntu/casper-rw/test.txt
+    5  touch /media/ubuntu/casper-rw/work/test.txt
+    6  touch ~/desktop/test.txt
+    7  touch ~/Desktop/test.txt
+    8  ls
+    9  cd Downloads
+   10  ls
+   11  sh SecureW2_JoinNow.run
+   12  df
+   13  df-h
+   14  whoami
+   15  hostname
+   16  echo
+   17  echo "hello world"
+   18  uname_a
+   19  clear
+   20  curl
+   21  curl example.org
+   22  sudo apt install curl
+   23  curl example.org
+   24  whoami
+   25  hostname
+   26  uname
+   27  manuname
+   28  man uname
+   29  echo
+   30  uname-a
+   31  echo "I am_so_cool"
+   32  echo "I did it. I'm so cool"
+   33  uname
+   34  man uname
+   35  uname-a
+   36  sudo apt-get install cowsay
+   37  man cowsay
+   38  snap install cowsay
+   39  cowsay
+   40  sudo apt-get install cowpy
+   41  sudo apt-get install cowsay
+   42  sudo apt-get install cowsay cowthink
+   43  sudo apt-get update
+   44  sudo apt-get install cowsay cowthink
+   45  sudo apt-get install cowsay 
+   46  sudo apt-get update
+   47  sudo apt-get install cowsay 
+   48  cowsay moo
+   49  sudo apt-get install cowsay
+   50  cowsay -d "moo"
+   51  cowsay -e "zz"
+   52  cowsay -e"zz" "moo"
+   53  cowsay -e"zz" -T"$$" "MOO"
+   54  COWSAY -E"ZZ" -T"\$$" "MOO"
+   55  PWD
+   56  pwd
+   57  open
+   58  ~/desktop
+   59  ~/desktop ls
+   60  ~/desktop ls -a
+   61  pwd
+   62  cd <desktop>
+   63  cd desktop
+   64  cd
+   65  tree
+   66  sudo apt install curl
+   67  ls -a
+   68  tree
+   69  'snap info tree'
+   70  cd..
+   71  cd~/desktop
+   72  cd download
+   73  ls download
+   74  pwd
+   75  cd downlo
+   76  cd Downloads/
+   77  ls
+   78  cd ..
+   79  ls
+   80  cd Downloads/
+   81  ls
+   82  pwd
+   83  cd home/
+   84  cd Home
+   85  pwd
+   86  cd home
+   87  cd desktop
+   88  touch
+   89  pwd
+   90  cd ..
+   91  tree
+   92  sudo apt install curl
+   93  tree
+   94  sudo apt install tree
+   95  tree
+   96  pwd
+   97  mkdir
+   98  mkdir development
+   99  tree
+  100  cd development
+  101  ls
+  102  mkdir universe
+  103  tree
+  104  touch solar_system
+  105  tree
+  106  rm-i solar_system
+  107  tree
+  108  rm -i solar_system
+  109  tree
+  110  rm -i solar_system
+  111  tree
+  112  mkdir universe/solar_system
+  113  tree
+  114  mkdir universe/solar_system
+  115  mkdir universe/stars
+  116  tree
+  117  mkdir universe/solar_system/planets
+  118  tree
+  119  touch universe/solar_system/planets/asteroid_belt.txt
+  120  tree
+  121  mkdir universe/solar_system/planets/earth
+  122  tree
+  123  mkdir universe/solar_system
+  124  mkdir universe/solar_system/planets/earth/continents
+  125  tree
+  126  cd development
+  127  pwd
+  128  ls
+  129  mkdir assignments
+  130  tree
+  131  cd assignments
+  132  pwd
+  133  touch hello.py
+  134  tree
+  135  ls
+  136  subl
+  137  subl hello.py
+  138  sudo snap install sublime-text
+  139  touch aplusb.py
+  140  cat aplusb.py 
+  141  python3 aplusb.py 
+  142  pwd
+  143  python3
+  144  tree
+  145  cd universe
+  146  tree
+  147  cd universe/
+  148  pwd
+  149  cd ..
+  150  tree
+  151  cd universe
+  152  tree
+  153  touch solar_system/planets/Mars.text
+  154  tree
+  155  pwd
+  156  cd .
+  157  tree
+  158  pwd
+  159  cd ..
+  160  pwd
+  161  mkdir house-expenditure
+  162  tree
+  163  ech $
+  164  echo $SHELL
+  165  pwd
+  166  cd assignments
+  167  pwd
+  168  touch sayhello.py
+  169  pwd
+  170  touch add1.py
+  171  chmod + x add1.py
+  172  subl add1.py
+  173  pip3 instal csvkit
+  174  sudo apt install python3-pip
+  175  history
+  176  history > leahnakaima.txt
